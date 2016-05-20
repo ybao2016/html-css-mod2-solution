@@ -58,6 +58,7 @@ section {
   font-family: Times, serif;
   color: black;
   float: right;
+  overflow: hidden;
 
 }
 /* Simple Responsive Framework. */
